@@ -1,0 +1,11 @@
+Install Node Js 
+* LTS is prefer
+ 
+Install Angular CLI. 
+* “npm install -g @angular/cli”
+ 
+Create new angular project.     
+* “ng new app-name”
+ 
+Run the app.     
+* “ng serve --open”
